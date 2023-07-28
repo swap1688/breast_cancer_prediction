@@ -16,8 +16,10 @@ Ten real-valued features are computed for each cell nucleus:
  - concavity 
  - concave points (number of concave portions of the contour)
  - symmetry
- - fractal dimension 
+ - fractal dimension
+   
 Through this features one can predict the tumor is either Malignant(cancer causing) or Benign(normal tumor) using machine learning
+
 --------------------------------------------------------------------------------------------------
 # Notebook
 
