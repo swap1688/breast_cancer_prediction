@@ -20,6 +20,7 @@ Ten real-valued features are computed for each cell nucleus:
 Through this features one can predict the tumor is either Malignant(cancer causing) or Benign(normal tumor) using machine learning
 --------------------------------------------------------------------------------------------------
 # Notebook
+
 The notebook provides a step-by-step guide on loading the dataset, preprocessing the data, training the model, and evaluating its performance.
 The model's performance and evaluation metrics will be displayed in the Jupyter notebook. You can expect to see accuracy, precision, recall, and F1-score for both the training and testing datasets.
 --------------------------------------------------------------------------------------------------
