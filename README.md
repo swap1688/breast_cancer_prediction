@@ -7,16 +7,16 @@ The dataset I have used in this repo is publicly available and was created by Dr
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 Ten real-valued features are computed for each cell nucleus:
 
-radius (mean of distances from center to points on the perimeter)
-texture (standard deviation of gray-scale values)
-perimeter
-area
-smoothness 
-compactness 
-concavity 
-concave points (number of concave portions of the contour)
-symmetry
-fractal dimension 
+ - radius (mean of distances from center to points on the perimeter)
+ - texture (standard deviation of gray-scale values)
+ - perimeter
+ - area
+ - smoothness 
+ - compactness 
+ - concavity 
+ - concave points (number of concave portions of the contour)
+ - symmetry
+ - fractal dimension 
 Through this features one can predict the tumor is either Malignant(cancer causing) or Benign(normal tumor) using machine learning
 --------------------------------------------------------------------------------------------------
 # Notebook
